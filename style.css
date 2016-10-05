@@ -1,0 +1,20 @@
+body {
+  background: url(Bar+35_hero_06+top+bar.jpg) no-repeat center center fixed;
+  background-size: cover;
+  padding-top: 50px;
+}
+
+.top-menu {
+  box-shadow: none;
+  border: none;
+  background: none;
+}
+
+.bar-35-logo {
+  width: 175px;
+  height: 250px;
+}
+
+h1 {
+  color: white;
+}
